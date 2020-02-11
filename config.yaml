@@ -1,10 +1,10 @@
-baseURL: / ##http:/validez.netlify.com/
+baseURL: http:/validez.netlify.com/
 title: Evaluación
 theme: book
 
 # Book configuration
 disablePathToLower: true
-enableGitInfo: false
+enableGitInfo: true
 
 
 # Needed for mermaid/katex shortcodes
@@ -38,7 +38,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  ##BookRepo: https://github.com/asaade/validez
+  BookRepo: https://github.com/asaade/validez
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
@@ -52,10 +52,10 @@ params:
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch: false
+  BookSearch: true
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments: true
+  BookComments: false
