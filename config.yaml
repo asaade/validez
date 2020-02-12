@@ -34,11 +34,11 @@ params:
 
   # Include JS scripts in pages. Disabled by default.
   # - Keep side menu on same scroll position during navigation
-  # BookEnableJS: true
+  BookEnableJS: true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/asaade/validez
+  # BookRepo: https://github.com/asaade/validez
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
