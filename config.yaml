@@ -18,7 +18,7 @@ markup:
 params:
   # (Optional, default true) Show or hide table of contents globally
   # You can also specify this parameter per page in front matter
-  BookShowToC: false
+  BookShowToC: true
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
@@ -38,7 +38,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  # BookRepo: https://github.com/asaade/validez
+  BookRepo: https://github.com/asaade/validez
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
@@ -52,7 +52,7 @@ params:
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch: false
+  BookSearch: true
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
