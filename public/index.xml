@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentación on Evaluación</title>
+    <link>/</link>
+    <description>Recent content in Presentación on Evaluación</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción</title>
+      <link>/docs/intro/</link>
+      <pubDate>Mon, 28 Oct 2019 11:53:04 +0000</pubDate>
+      
+      <guid>/docs/intro/</guid>
+      <description>Introducción Los avances en el desarrollo de la psicometría han aportado al campo de la evaluación educativa nuevas formas de medición que incluyen modelos estadísticos cada vez más sofisticados y que han adoptado mecanismos tecnológicos que hacen posible una amplia gama de evaluaciones que antes no eran imaginables. Con la llegada de las computadoras, millones de pruebas individuales se aplican cada año en línea y a distancia, algunas de ellas ensambladas &amp;ldquo;al vuelo&amp;rdquo; para personalizarlas a cada sustentante y con formatos que permiten formas de interacción más ricas para explorar y conocer mejor lo que verdaderamente puede hacer el sustentante.</description>
+    </item>
+    
+    <item>
+      <title>Validez</title>
+      <link>/docs/validez/</link>
+      <pubDate>Mon, 04 Nov 2019 16:06:04 +0000</pubDate>
+      
+      <guid>/docs/validez/</guid>
+      <description>Validez No hay concepto más importante ni preocupación más antigua en la elaboración de pruebas que el de la validez. ¿Qué puede ser más elemental que saber que la prueba es válida? ¿Qué es lo que hace que los resultados del esfuerzo sean válidos? La validez es el concepto más importante al hablar de la calidad de la evaluación y, sin embargo, quizá es el más difícil de acotar.
+La concepción de la validez ha variado en el tiempo.</description>
+    </item>
+    
+    <item>
+      <title>Fuentes de evidencia</title>
+      <link>/docs/fuentes/</link>
+      <pubDate>Mon, 28 Oct 2019 09:29:36 +0000</pubDate>
+      
+      <guid>/docs/fuentes/</guid>
+      <description>Fuentes de evidencia Cualquiera que sea la definición que se elija, la validez de una evaluación es algo que se debe comprobar con evidencia. Esto no es nuevo ni mucho menos. Mientras han existido pruebas, el evaluador ha tenido la obligación de aportar elementos que hablen de la calidad de su trabajo, defenderlo y justificarlo. Si es que hay un elemento nuevo en las definiciones más recientes, es el énfasis que se hace sobre la necesidad de profundizar el análisis y particularizar sobre distintas facetas de la validez que deben probarse o, al menos, sobre las que se debe aportar evidencia.</description>
+    </item>
+    
+    <item>
+      <title>Constructo</title>
+      <link>/docs/constructo/</link>
+      <pubDate>Mon, 28 Oct 2019 13:15:44 +0000</pubDate>
+      
+      <guid>/docs/constructo/</guid>
+      <description>Constructo Los psicólogos suelen llamar contructo a una construcción teórica, una variable definida por el investigador que, en términos prácticos, representa un modelo de lo que se quiere medir (el objeto de medida). En una concepción más moderna, de acuerdo con las recientes teorías de la validez, el constructo va más allá del universo de medida (el dominio), pues engloba a todo el proyecto, sus razones, sus objetivos, sus resultados y su pertinencia para tomar ciertas decisiones.</description>
+    </item>
+    
+    <item>
+      <title>El triángulo de la evaluación</title>
+      <link>/docs/triangulo/</link>
+      <pubDate>Sun, 27 Oct 2019 18:16:37 +0000</pubDate>
+      
+      <guid>/docs/triangulo/</guid>
+      <description>El triángulo de la evaluación Una vez más, en la corriente de pensamiento más popular hoy, Messick (1994) es quien subraya la centralidad del tema:
+ Un enfoque centrado en el constructo comenzaría preguntando qué conjunto de conocimientos, habilidades u otros atributos deben evaluarse, presumiblemente porque están vinculados a objetivos de instrucción explícitos o implícitos o son valorados por la sociedad. A continuación, ¿qué comportamientos o actuaciones deberían revelar esos constructos, y qué tareas o situaciones deberían provocar esos comportamientos?</description>
+    </item>
+    
+    <item>
+      <title>Otros elementos básicos para el diseño</title>
+      <link>/docs/elementos/</link>
+      <pubDate>Thu, 13 Jun 2019 13:12:00 +0000</pubDate>
+      
+      <guid>/docs/elementos/</guid>
+      <description>Elementos básicos para el diseño  Estándar 1.1. El diseñador de la prueba debe establecer claramente cómo se pretende interpretar y, en consecuencia, utilizar los puntajes de las pruebas. La(s) población (es) para las cuales se pretende realizar una prueba deben delimitarse claramente, y el constructo o constructos que la prueba debe evaluar deben describirse claramente. (AERA, 2014)
+ El proceso de desarrollo de la evaluación necesita de distintos elementos que deben definirse antes de comenzar su construcción.</description>
+    </item>
+    
+    <item>
+      <title>La evaluación como argumentación</title>
+      <link>/docs/argumentacion/</link>
+      <pubDate>Sun, 02 Jun 2019 05:55:17 +0000</pubDate>
+      
+      <guid>/docs/argumentacion/</guid>
+      <description>La evaluación como argumentación  Estándar 1.2 Se debe presentar una justificación para cada interpretación prevista de puntajes de prueba para un uso dado, junto con un resumen de la evidencia y la teoría que tienen relación con la interpretación prevista. (AERA, 2014)
+ Con la evaluación se plantean afirmaciones concretas sobre lo que los estudiantes saben y pueden hacer. Una afirmación (claim) es una declaración que se le está pidiendo a la otra persona que acepte como verdadera.</description>
+    </item>
+    
+    <item>
+      <title>Diseño Basado en Evidencias (ECD)</title>
+      <link>/docs/ecd/</link>
+      <pubDate>Wed, 12 Jun 2019 12:47:00 +0000</pubDate>
+      
+      <guid>/docs/ecd/</guid>
+      <description>Diseño Basado en Evidencias (ECD) Cada paso en el proceso de desarrollo de la prueba se rige por decisiones clave que se toman desde el principio sobre el diseño de la prueba: ¿Cuál es el propósito de la prueba? ¿Cuáles son los usos previstos para los resultados? ¿Cuáles son las circunstancias en las que se aplicará? ¿Qué formato se utilizará? Y, por supuesto, quizá una de las decisiones más importantes que se tomarán es determinar y detallar ¿cuáles son los contenidos, conocimientos, habilidades, estrategias o procesos que se medirán con la prueba?</description>
+    </item>
+    
+    <item>
+      <title>Contenido</title>
+      <link>/docs/contenido/</link>
+      <pubDate>Sun, 16 Jun 2019 20:47:56 +0000</pubDate>
+      
+      <guid>/docs/contenido/</guid>
+      <description>El contenido La última encarnación de los estándares de APA/AERA/NCME desalienta el uso de los términos “validez de contenido”, pero los sustituye oportunamente por una categoría que da evidencia de la “representación del contenido”.
+ La evaluación debe reunir tareas que sean representativas del dominio. (Messick, 1995)
+ De cualquier manera que se le llame, validar el contenido de una prueba, su representatividad y relevancia, es un elemento sustancial para evaluación.</description>
+    </item>
+    
+  </channel>
+</rss>

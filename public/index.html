@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="generator" content="Hugo 0.64.1" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Presentación"><meta property="og:title" content="Presentación" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" />
+
+<title>Presentación | Evaluación</title>
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/book.min.5bc8a1cbdb053dcac7ddf7a245778b7e179f99d499608035c8a8bb328278e091.css" integrity="sha256-W8ihy9sFPcrH3feiRXeLfhefmdSZYIA1yKi7MoJ44JE=">
+
+
+<script defer src="/en.search.min.08b55acc968f44d8ec78df53203a546929e85784c3a305a95161388267f5034f.js" integrity="sha256-CLVazJaPRNjseN9TIDpUaSnoV4TDowWpUWE4gmf1A08="></script>
+
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Evaluación" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Evaluación</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+  <ul>
+<li>
+<p><a href="/docs/intro/"><strong>Introducción</strong></a></p>
+</li>
+<li>
+<p><strong>Conceptos</strong></p>
+<ul>
+<li><a href="/docs/validez/">Validez</a></li>
+<li><a href="/docs/fuentes/">Fuentes de evidencia</a></li>
+<li><a href="/docs/constructo/">Constructo</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Componentes</strong></p>
+<ul>
+<li><a href="/docs/triangulo/">Triángulo de la evaluación</a></li>
+<li><a href="/docs/argumentacion/">Evaluación como argumentación</a></li>
+<li><a href="/docs/elementos/">Elementos para el diseño</a></li>
+<li><a href="/docs/ecd/">Diseño basado en evidencias (ECD)</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Herramientas</strong></p>
+<ul>
+<li><a href="/docs/contenido/">Contenido</a> (Incompleto)</li>
+<li>Estructura interna - Pendiente</li>
+<li>Procesos de respuesta - Pendiente</li>
+<li>Correlación con variables externas - Pendiente</li>
+</ul>
+</li>
+<li>
+<p>[Los que siguen]</p>
+</li>
+</ul>
+<p>&hellip;</p>
+<!-- Local Variables: -->
+<!-- coding: utf-8 -->
+<!-- End: -->
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Presentación</strong>
+
+  <label for="toc-control">
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+  </label>
+</div>
+
+
+  
+    <input type="checkbox" class="hidden" id="toc-control" />
+    <aside class="hidden clearfix">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#apuntes-sobre-la-elaboración-de-pruebas">Apuntes sobre la elaboración de pruebas</a></li>
+  </ul>
+</nav>
+
+
+    </aside>
+  
+ 
+      </header>
+
+      
+<article class="markdown"><h1 id="apuntes-sobre-la-elaboración-de-pruebas">Apuntes sobre la elaboración de pruebas</h1>
+<p>Gracias por estar aquí. Desde hace un tiempo le he estado dando vueltas a la idea de escribir sobre evaluación. hablar un poco de los aspectos teóricos y otro poco sobre los aspectos prácticos del diseño de las pruebas. Ahora lo hago. el lector eres tú, aunque debo confesar que tal vez es más un ejercicio para mí, un diálogo interno para aclarar algunas ideas. Porque tener que pasar los conceptos al papel o, en este caso, a la pantalla, es en cierto modo ponerlos a prueba y forzarse a comprenderlos bien antes de escribir. Sí, es cierto, casi nunca sucede así. A veces se escriben las cosas antes de entenderlas del todo. Luego viene la epifanía, si alguna vez llega, y hay que regresar para corregir. Lo cierto es que tal vez nunca quedarán como deberían estar, de eso estoy seguro. Sin embargo, como muchas cosas en la vida, estoy convencido de que la riqueza está más en el proceso que en el resultado.</p>
+<p>Así que este es un ejercicio personal que toma más o menos la estructura de un libro. Bueno, espero que la irá tomando, pues las secciones irán apareciendo conforme hagan falta y yo pueda dedicarle tiempo. Diría que el plan es que salga un capítulo semanal, como las novela de entregas de antes. En fascículos, diríamos ahora. Quisiera que así fuera y cumplir con el programa a tiempo, pero aún para eso no puedo garantizar nada. Tampoco puedo asegurar que sea útil para algo en particular. Al menos me queda la esperanza de que alguna idea suelta haga eco y ayude.</p>
+<p>En las siguientes páginas espero hablar de evaluación y de pruebas, fundamentalmente en el ámbito de la educación. No es un trabajo original, en el sentido de que descubra algo nuevo. Tampoco es un documento acabado. En todo caso un borrador. Es seguro que tendrá carencias y que en lo formal deje que desear. Quizá haya más preguntas que respuestas, pero sé que habrá un poco de todo. También de lo técnico, pero más que profundizar en la estadística, lo que me inquieta más ahora son los aspectos cualitativos de la evaluación, las posturas teóricas digamos, que están dando forma a la evaluación educativa del siglo XXI. ¿Qué hace válida a una prueba? ¿En qué consiste el diseño? ¿Cuáles son las metodologías más comunes? ¿Cómo embonan los procedimientos tecnicos? ¿Que viene por delante?</p>
+<p>De nuevo, gracias por leer. Espero que algo sea de utilidad para tí. Estoy seguro de que lo será para mí.</p>
+<p>Comenzamos</p>
+</article>
+ 
+
+      <footer class="book-footer">
+        
+  <div class="flex justify-between">
+
+
+
+  <div>
+    
+    <a class="flex align-center" href="https://github.com/asaade/validez/commit/4dab39bd0d5bd0b3ce60bdee147edcb7b2cf74d9" title='Last modified by asaade | 2020-02-11' target="_blank" rel="noopener">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>2020-02-11</span>
+    </a>
+  </div>
+
+
+
+</div>
+
+ 
+        
+  
+ 
+      </footer>
+      
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#apuntes-sobre-la-elaboración-de-pruebas">Apuntes sobre la elaboración de pruebas</a></li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
